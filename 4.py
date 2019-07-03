@@ -1,3 +1,3 @@
 import math
 keer=float(input())
-print(math.ceil(jerry))
+print(math.ceil(keer))
