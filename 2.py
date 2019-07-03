@@ -1,7 +1,7 @@
 hey=input()
-oi=['a','A','e','E','i','I','o','O','u','U']
+o=['a','A','e','E','i','I','o','O','u','U']
 for i in hey:
- if i in oi:
+ if i in o:
   print("yes")
   break
 else:
